@@ -1,5 +1,10 @@
 BGM角色图廊计划
 
+[Greasy Fork](https://greasyfork.org/zh-CN/scripts/542309-bgm-角色图廊 "点击安装")
+
+声明：如果此计划参与的人员不多，因为个人原因随时可能停止维护
+
+
 因为BGM本身的角色条目并没有图廊功能，所以现在我想通过简单的代码实现以下功能
 <img width="1376" height="711" alt="image" src="https://github.com/user-attachments/assets/5c228777-5172-4b89-8e9e-64c7d9c41a6a" />
 
