@@ -9,5 +9,5 @@ BGM角色图廊计划
 https://github.com/stay206/bangumi-character/issues/1
 
 要求：
-先创建角色对应id的文件夹，此文件夹下需要有一个对应此id的以角色名称为名的文本文件
+先创建角色对应id的文件夹，此文件夹下需要有一个对应此id的以角色名称为名的文本文件，然后在对应的文件夹下上传图片即可
 <img width="763" height="379" alt="image" src="https://github.com/user-attachments/assets/685556b5-bced-49be-a3bf-90a33b7ba537" />
